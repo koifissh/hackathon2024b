@@ -93,7 +93,7 @@ pip install wave
 - Dispatch status: O(m) where m is the number of dispatched units
 
 ## Conclusions 
-This program has limits in that it requires a live online API service and speech recognition is highly dependent on audio quality. If we get pass those things, then the strengths of the program include real time analysis and appropriate emergency response classification with multilingual support. Besides that, there are potential expansions to be made such as adding a more indepth analysis of the severity of the call and integrating the AI with external dispatch system. This sort of application is needed in areas of understaffed dispatchers and high volume calls. It will make dispatches more efficient since emergencies can be sorted out to the appropriate emergency services. It'll also help with particular situations where staying on call is necessary. If a human dispatcher is held up on a call then that will take up valuable human resources from other calls that may need them however with AI, this should be significantly mitigated.
+In conclusion, this program helps with real time analysis and appropriate emergency response classification with multilingual support. It helps reduces fatigue and stress for 911 dispatchers. Additionally, this program helps in understaffed areas with high volume calls and make dispatches efficient and less time consuming. Furthermore, if a human dispatcher is held up on a call then it will take up valuable human resources from other calls however AI can mitigate that.
 
 ## Citations
 https://csgjusticecenter.org/publications/911-dispatch-call-processing-protocols-key-tools-for-coordinating-effective-call-triage/
