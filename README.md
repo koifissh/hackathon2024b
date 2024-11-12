@@ -42,17 +42,17 @@ pip install wave
 ## Additional Details
 - The system uses Flask and Socket.IO for real-time web communication
 - OpenAI's Whisper model handles speech-to-text conversion
-- OpenAI's GPT model provides AI-assisted responses
+- OpenAI's GPT model provides AI-assisted responses via GPT "Assistants"
 - OpenStreetMap integration for location visualization
 - Real-time updates for transcript, dispatch status, and emergency summaries
 
 - Key libraries and services used:
-- Flask: Web framework
-- Socket.IO: Real-time communication
-- OpenAI API: Speech recognition and AI assistance
-- Sounddevice: Audio processing
-- Leaflet.js: Map visualization
-- OpenStreetMap: Geocoding services
+   - `Flask: Web framework`
+   - `Socket.IO: Real-time communication`
+   - `OpenAI API: Speech recognition and AI assistance`
+   - `Sounddevice: Audio processing`
+   - `Leaflet.js: Map visualization`
+   - `OpenStreetMap: Geocoding services`
 
 ## Limits
 - Requires stable internet connection for API services
