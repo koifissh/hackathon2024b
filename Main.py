@@ -24,8 +24,7 @@ socketio = SocketIO(app)
 class EmergencyDispatcher:
     def __init__(self):
         # Initialize OpenAI client
-        self.client = OpenAI(api_key="sk-svcacct-LvaCANL99TKmfxIaMCd0bYuXJZnaqD8pplbE3atPAu5jhgf2uZ6B2ZIFVbOAbhipozaqT3"
-                                     "BlbkFJcbqjFv_aXQoxfGP-SfMzMyRH-rOunqzEPTQnpSAH6cifbJU9XuYkUTdVzkP--mO80TYA")
+        self.client = OpenAI(api_key="Open API Key Here")
         self.assistant_id = "asst_DGcJujd3wtjBRZ4KsdrD0q5X"
         self.thread = self.client.beta.threads.create()
         
