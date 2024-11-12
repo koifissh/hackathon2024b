@@ -1,6 +1,6 @@
 
 ![PNG image](https://github.com/user-attachments/assets/3f7dfc20-8b13-49f2-a335-192db3bb7bf9)
-# Emergency 911 Dispatch System
+# Emergency AI 911 Dispatcher
 
 ## Authors
 Daniel Huynh and Yagna Patel
