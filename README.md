@@ -23,7 +23,7 @@ pip install openai
 pip install numpy
 pip install wave
 ```
-
+1. Insure you have a VALID OPEN API KEY to insert into the code
 2. Ensure you have valid OpenAI API credentials configured in the EmergencyDispatcher class.
 
 3. Run the `Gui-1.py` file to start the server.
