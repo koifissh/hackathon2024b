@@ -93,3 +93,5 @@ pip install wave
 
 ## Citations
 https://csgjusticecenter.org/publications/911-dispatch-call-processing-protocols-key-tools-for-coordinating-effective-call-triage/
+
+https://www.saferwatchapp.com/blog/police-response-time/
