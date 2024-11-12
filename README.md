@@ -3,6 +3,9 @@
 # Emergency 911 Dispatch System
 A real-time emergency dispatch interface with speech recognition, AI assistance, and location tracking.
 
+## Authors
+Daniel Huynh and Yagna Patel
+
 ## Problem
 Traditional emergency dispatch systems often lack real-time transcription, automated assistance, and visual tracking capabilities. This system addresses these limitations by providing an integrated solution for emergency call handling and dispatch management.
 
