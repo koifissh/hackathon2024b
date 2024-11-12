@@ -41,6 +41,14 @@ pip install wave
 - OpenStreetMap integration for location visualization
 - Real-time updates for transcript, dispatch status, and emergency summaries
 
+- Key libraries and services used:
+- Flask: Web framework
+- Socket.IO: Real-time communication
+- OpenAI API: Speech recognition and AI assistance
+- Sounddevice: Audio processing
+- Leaflet.js: Map visualization
+- OpenStreetMap: Geocoding services
+
 ## Limits
 - Requires stable internet connection for API services
 - Speech recognition accuracy depends on audio quality
@@ -80,10 +88,4 @@ pip install wave
 - Dispatch status: O(m) where m is the number of dispatched units
 
 ## Citations
-Key libraries and services used:
-- Flask: Web framework
-- Socket.IO: Real-time communication
-- OpenAI API: Speech recognition and AI assistance
-- Sounddevice: Audio processing
-- Leaflet.js: Map visualization
-- OpenStreetMap: Geocoding services
+
