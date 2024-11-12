@@ -1,7 +1,6 @@
 
 ![PNG image](https://github.com/user-attachments/assets/3f7dfc20-8b13-49f2-a335-192db3bb7bf9)
 # Emergency 911 Dispatch System
-A real-time emergency dispatch interface with speech recognition, AI assistance, and location tracking.
 
 ## Authors
 Daniel Huynh and Yagna Patel
@@ -59,7 +58,7 @@ pip install wave
 - Speech recognition accuracy depends on audio quality
 - Location detection relies on address mention in conversation
 - Limited to predefined emergency types (Medical, Fire, Police)
-- Requires OpenAI API key and credits
+- Requires OpenAI API key
 
 ## Strengths
 - Real-time processing and updates
